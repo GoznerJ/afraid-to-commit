@@ -361,6 +361,6 @@ I followed the tutorial online
 * Ana
 * Dade Murphy
 * Leticia Ulloa
-* Judith Gozner
+* Judith Gozner - https://github.com/GoznerJ - 11-Feb-2019
 * La Chilindrina
 * Anselmo ~ <agprocida@gmail.com> ~ anselmoprocida
